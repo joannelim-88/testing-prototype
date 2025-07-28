@@ -186,22 +186,3 @@ smart-recipe-analyzer/
 ## 📝 License
 
 This project is licensed under the MIT License.
-
-## 🆘 Troubleshooting
-
-### Common Issues
-
-1. **API Key Error**: Make sure your Gemini API key is correctly set in the `.env` file
-2. **CORS Issues**: Ensure the Flask backend is running and CORS is properly configured
-3. **Port Conflicts**: Check if ports 3000 (React) and 5000 (Flask) are available
-
-### Getting Help
-
-- Check the console for error messages
-- Verify all dependencies are installed
-- Ensure both backend and frontend are running
-- Check network connectivity for API calls
-
-## 🎉 Enjoy Cooking!
-
-Start exploring delicious recipes with your available ingredients. The AI will help you discover new dishes and cooking techniques! 
